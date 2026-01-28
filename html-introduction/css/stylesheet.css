@@ -1,0 +1,38 @@
+body {
+    background-color: magenta;
+    
+}
+
+.container{
+    max-width: 80%;
+    background-color: white;
+    margin: 2rem auto;
+}
+
+p{
+    max-width: 80ch;
+}
+
+.top h1{
+    color: green
+}
+
+.top{
+    background-color: tan;
+    padding: 2rem;
+}
+
+.list{
+    background-color: paleturquoise;
+    padding: 2rem;
+}
+
+.bottom{
+    background-color: white;
+    padding: 2rem;
+}
+
+.photo{
+    width: 60%;
+    max-width: 100%;
+}
