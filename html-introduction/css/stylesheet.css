@@ -1,6 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&family=Grandstander:ital,wght@0,100..900;1,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 body {
     background-color: magenta;
-    
+    font-family: "Grandstander", sans-serif;
+}
+
+em{
+    color: darkblue;
+}
+
+h1{
+    font-family: "Grand Hotel", serif;
+    size: 30pt;
 }
 
 .container{
